@@ -84,6 +84,12 @@ section h2 {
     color: #1e90ff;
 }
 
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 footer {
     background-color: #282c34;
     color: white;
